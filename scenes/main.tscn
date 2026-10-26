@@ -30,6 +30,6 @@ offset_right = 420.0
 offset_bottom = 30.0
 grow_horizontal = 2
 grow_vertical = 2
-text = "CMSC 197 GDD - Platformer starter"
+text = "You need to build this first."
 horizontal_alignment = 1
 vertical_alignment = 1

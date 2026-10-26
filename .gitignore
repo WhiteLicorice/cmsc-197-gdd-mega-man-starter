@@ -1,0 +1,19 @@
+# Godot editor cache. Regenerate it by opening the project.
+.godot/
+
+# Export output.
+export/
+build/
+*.exe
+*.pck
+*.zip
+
+# Editor-local files.
+.vscode/
+.idea/
+*.tmp
+*.bak
+
+# Operating system files.
+.DS_Store
+Thumbs.db

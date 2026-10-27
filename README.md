@@ -1,6 +1,6 @@
-# Platformer Starter
+# Mega Man Starter
 
-This project is the starting point for the CMSC 197 GDD Platformer workshops. It
+This project is the starting point for the CMSC 197 GDD Mega Man workshops. It
 carries the assets and the engine settings for the three-session series. It
 carries no gameplay.
 

@@ -40,6 +40,8 @@ hash. The archive hash identifies the exact download.
 | assets/kenney-fonts/Fonts/Kenney Future.ttf | kenney-fonts | https://kenney.nl/assets/kenney-fonts | Rene Andre Bedonia Jocsing (WhiteLicorice) | CC0 1.0 | 2026-10-27 | 4e69a86eef3cd47e9d8207413868cd08bcddeb2dae4047dbd10362e2a7a16bac | None. Copied byte for byte. |
 | assets/impact-sounds/Audio/impactGeneric_light_000.ogg | impact-sounds | https://kenney.nl/assets/impact-sounds | Rene Andre Bedonia Jocsing (WhiteLicorice) | CC0 1.0 | 2026-10-27 | 029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8 | None. Copied byte for byte. |
 | assets/interface-sounds/Audio/confirmation_001.ogg | interface-sounds | https://kenney.nl/assets/interface-sounds | Rene Andre Bedonia Jocsing (WhiteLicorice) | CC0 1.0 | 2026-10-27 | f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232 | None. Copied byte for byte. |
+| assets/music/level-2.ogg | chiptunes-action | https://opengameart.org/content/5-chiptunes-action | Rene Andre Bedonia Jocsing (WhiteLicorice) | CC0 1.0 | 2026-10-27 | ea189990c0fb9a700187ccc740eda72400341a082305a163867467d96346460d | Converted from `Juhani Junkala [Retro Game Music Pack] Level 2.wav` to Ogg Vorbis, quality 4, 44100 Hz stereo. |
+| assets/new-platformer-pack/Audio/sfx_jump.ogg | new-platformer-pack | https://kenney.nl/assets/new-platformer-pack | Rene Andre Bedonia Jocsing (WhiteLicorice) | CC0 1.0 | 2026-10-27 | 553b907f3f0e505ab65f56f245ccaff3123c8fe3f3a0dfce9373b996bfc18cc2 | None. Copied byte for byte. |
 
 All packs are CC0 1.0. CC0 permits redistribution of the source,
 modification, and publication in a public game. Attribution is not

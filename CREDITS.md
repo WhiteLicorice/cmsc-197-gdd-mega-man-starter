@@ -32,6 +32,20 @@ file in your release so a reader can find the source.
 - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 - Retrieved: 2026-10-27
 
+## chiptunes-action
+
+- Author: Juhani Junkala
+- Page: https://opengameart.org/content/5-chiptunes-action
+- Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Retrieved: 2026-10-27
+
+## new-platformer-pack
+
+- Publisher: Kenney
+- Page: https://kenney.nl/assets/new-platformer-pack
+- Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Retrieved: 2026-10-27
+
 ## Engine
 
 - Godot Engine 4.7.2, MIT licence (https://godotengine.org/license).

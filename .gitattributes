@@ -1,0 +1,23 @@
+# These projects open on Windows, macOS, and Linux.
+#
+# The index holds LF. Godot writes LF. A Windows checkout runs
+# core.autocrlf=true and writes CRLF, so the tree and the editor disagree over
+# the same files. Git reports them as modified, and the directory never stays
+# clean. This rule forces LF on every platform.
+
+* text=auto eol=lf
+
+# Importer metadata. Godot writes these files with LF.
+*.import text eol=lf
+
+# Binary assets. Git must not translate these bytes.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ogg binary
+*.wav binary
+*.mp3 binary
+*.ttf binary
+*.otf binary
+*.zip binary
+*.exe binary
